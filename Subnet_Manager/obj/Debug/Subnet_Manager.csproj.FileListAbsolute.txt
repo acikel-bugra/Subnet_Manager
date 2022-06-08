@@ -1,0 +1,19 @@
+c:\users\ramazan\documents\visual studio 2015\Projects\Subnet_Manager\Subnet_Manager\bin\Debug\Subnet_Manager.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\Subnet_Manager\Subnet_Manager\bin\Debug\Subnet_Manager.pdb
+c:\users\ramazan\documents\visual studio 2015\Projects\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.csprojResolveAssemblyReference.cache
+c:\users\ramazan\documents\visual studio 2015\Projects\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.Form1.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.Properties.Resources.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.csproj.GenerateResource.Cache
+c:\users\ramazan\documents\visual studio 2015\Projects\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.pdb
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\bin\Debug\Subnet_Manager.exe
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\bin\Debug\Subnet_Manager.pdb
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.csproj.AssemblyReference.cache
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.Form1.resources
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.Properties.Resources.resources
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.csproj.GenerateResource.cache
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.csproj.CoreCompileInputs.cache
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.exe
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.pdb
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\bin\Debug\Subnet_Manager.exe.config
+C:\Users\berkh\OneDrive\Masaüstü\Subnet_Manager\Subnet_Manager\obj\Debug\Subnet_Manager.csproj.SuggestedBindingRedirects.cache
